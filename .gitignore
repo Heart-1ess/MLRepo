@@ -1,0 +1,4 @@
+# gitignore
+
+# ignore the datasets to avoid overwhelming great size
+datasets/
